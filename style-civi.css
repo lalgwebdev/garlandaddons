@@ -1,0 +1,5 @@
+/******************  Additions for CiviCRM prototype  **********************/
+
+.page-civicrm-contribute #Main .crm-not-you-message a {
+	display: none;
+}

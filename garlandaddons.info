@@ -1,0 +1,10 @@
+name = Garland Add-ons
+description = The clue's in the name
+package = Core
+base theme = garland
+core = 7.x
+
+scripts[] = script.js
+stylesheets[all][] = style-civi.css
+
+
